@@ -1,2 +1,2 @@
-# Almighty-WS2812-LED-Driver
-WS2812 driver for STM32 that uses different MCU peripherals to drive the LED using DMA (UART, SPI, PWM, GPIO).
+# Almighty WS2812 LED Driver
+Let's abuse the STM32 peripherals in the ways that it was never been ment to be used for driving the WS2812 LED with DMA.
